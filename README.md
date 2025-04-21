@@ -20,3 +20,6 @@ Key Features:
 1. Search bar to name the city you want to know weather of.
 2. Display temperature in degree celcius with an image to depict weather (clear, clouds, rainy etc.)
 3. Show Humidity percentage and Wind speed in km/h
+
+Live site link: https://rahib50.github.io/Weather-App/
+Youtube tutorial link: https://www.youtube.com/watch?v=MIYQR-Ybrn4&list=PLjwm_8O3suyOgDS_Z8AWbbq3zpCmR-WE9&index=2 (How To Make Weather App Using JavaScript Step By Step Explained)
